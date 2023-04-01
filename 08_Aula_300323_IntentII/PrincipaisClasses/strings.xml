@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="titulo">Intent II</string>
+    <string name="nome">Digite o nome do func.</string>
+    <string name="salario">Digite o valor do salário</string>
+    <string name="calcular">Calcular</string>
+    <string name="btnLigar">Fazer Ligação</string>
+    <string name="Agenda">Agenda</string>
+    <string name="aplicacao">App</string>
+    <string name="btnSite">Site</string>
+    <string name="btnEmail">Email</string>
+</resources>
