@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="texto">Intent Mil Grau</string>
+    <string name="nominho">Dig. seu nominho</string>
+    <string name="sobrenominho">Dig. seu sobrenominho</string>
+    <string name="enviar">Enviar!!!</string>
+    <string name="texto2">Activity Number II</string>
+</resources>
